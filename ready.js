@@ -1,0 +1,2 @@
+window.tamper = window._$ = {};
+
